@@ -1,0 +1,8 @@
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\bin\Debug\LapTrinhNangCao.exe.config
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\bin\Debug\LapTrinhNangCao.exe
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\bin\Debug\LapTrinhNangCao.pdb
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\obj\Debug\LapTrinhNangCao.csproj.AssemblyReference.cache
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\obj\Debug\LapTrinhNangCao.csproj.SuggestedBindingRedirects.cache
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\obj\Debug\LapTrinhNangCao.csproj.CoreCompileInputs.cache
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\obj\Debug\LapTrinhNangCao.exe
+D:\IT\Programming language\C#\MyProjects\LapTrinhNangCao\LapTrinhNangCao\obj\Debug\LapTrinhNangCao.pdb
